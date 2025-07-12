@@ -10,8 +10,8 @@ This project is a Python-based application designed to perform specific tasks. T
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd test_task_traektory
+   git clone [test-task-traektory](https://github.com/monk-coder/test-task-traektory.git)
+   cd test-task-traektory
    ```
 
 2. Install dependencies:
